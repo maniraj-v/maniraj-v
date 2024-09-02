@@ -10,10 +10,10 @@
 ### Skills
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,mui,tailwind)](https://skillicons.dev)
 
-### 💻 Experience & Works
+### 💻 Projects
 
-  - 📚 [Portfolio Application](https://portfolio-mani-raj-velrajan.vercel.app/)
-  - 📧 Feel free to reach me at [vsmaniraj1234@gmail.com](vsmaniraj1234@gmail.com) for any freelancing works
+   📚 Portolfio Application showcasing my experience and works [Link](https://portfolio-mani-raj-velrajan.vercel.app/)
+   📧 Feel free to reach me at [vsmaniraj1234@gmail.com](vsmaniraj1234@gmail.com) for any freelancing works
     
 ### 📬 Connect with me:
                   
