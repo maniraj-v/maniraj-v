@@ -8,16 +8,17 @@
 - ⚡ Motto: _Learn, adapt, and evolve_
 
 ### Skills
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,mui,tailwind)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,mui,tailwind)](https://skillicons.dev)
 
 ### 💻 Projects
 
-   📚 Portolfio Application showcasing my experience and works [Link](https://portfolio-mani-raj-velrajan.vercel.app/)
-   📧 Feel free to reach me at [vsmaniraj1234@gmail.com](vsmaniraj1234@gmail.com) for any freelancing works
+   &nbsp;&nbsp;&nbsp;&nbsp;📚 Portolfio Application showcasing my experience and works [Link](https://portfolio-mani-raj-velrajan.vercel.app/) <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;📧 Feel free to reach me at [vsmaniraj1234@gmail.com](vsmaniraj1234@gmail.com) for any freelancing works
     
 ### 📬 Connect with me:
                   
 <p align="left">
+   &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.github.com/maniraj-v" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
