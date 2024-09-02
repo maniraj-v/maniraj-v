@@ -12,7 +12,7 @@
 
 ### 💻 Projects
 
-   &nbsp;&nbsp;&nbsp;&nbsp;📚 Portolfio Application showcasing my experience and works [Link](https://portfolio-mani-raj-velrajan.vercel.app/) <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;📚 [Portfolio Application](https://portfolio-mani-raj-velrajan.vercel.app/) showcasing my experience and works <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;📧 Feel free to reach me at <a href="mailto:vsmaniraj1234@gmail.com" target="_blank" rel="noreferrer">(vsmaniraj1234@gmail.com)</a> for any freelancing works
     
 ### 📬 Connect with me:
