@@ -8,7 +8,7 @@
 - ⚡ Motto: _Learn, adapt, and evolve_
 
 ### Skills
-  - [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,mui,tailwind)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,mui,tailwind)](https://skillicons.dev)
 
 ### 💻 Experience & Works
 
