@@ -5,7 +5,7 @@
 - 👨‍🏫 Specialized at crafting pixel perfect User Interfaces
 - 👨‍💻 Building Scalable, Responsive, Secure Web Applications
 - 🏆 Goal: Embark on a quest for knowledge, charting a course for wisdom
-- ⚡ Motto: _Learn, adapt, and evolve
+- ⚡ Motto: _Learn, adapt, and evolve_
 
 ### Skills
   - [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,mui,tailwind)](https://skillicons.dev)
